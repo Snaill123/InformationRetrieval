@@ -1,0 +1,6 @@
+DocID_0	C:\Users\15850\eclipse-workspace\tf_idf\src\tf_idf\documents\math1.txt
+DocID_1	C:\Users\15850\eclipse-workspace\tf_idf\src\tf_idf\documents\math2.txt
+DocID_2	C:\Users\15850\eclipse-workspace\tf_idf\src\tf_idf\documents\math3.txt
+DocID_3	C:\Users\15850\eclipse-workspace\tf_idf\src\tf_idf\documents\sports1.txt
+DocID_4	C:\Users\15850\eclipse-workspace\tf_idf\src\tf_idf\documents\sports2.txt
+DocID_5	C:\Users\15850\eclipse-workspace\tf_idf\src\tf_idf\documents\sports3.txt

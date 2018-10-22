@@ -1,0 +1,6 @@
+DocID_0	C:\Users\15850\eclipse-workspace\invertedSearch\src\invertedSearch\documents\math1.txt
+DocID_1	C:\Users\15850\eclipse-workspace\invertedSearch\src\invertedSearch\documents\math2.txt
+DocID_2	C:\Users\15850\eclipse-workspace\invertedSearch\src\invertedSearch\documents\math3.txt
+DocID_3	C:\Users\15850\eclipse-workspace\invertedSearch\src\invertedSearch\documents\sports1.txt
+DocID_4	C:\Users\15850\eclipse-workspace\invertedSearch\src\invertedSearch\documents\sports2.txt
+DocID_5	C:\Users\15850\eclipse-workspace\invertedSearch\src\invertedSearch\documents\sports3.txt
